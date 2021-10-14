@@ -1,5 +1,5 @@
 # gandalfs-face-detection-api
-[gandalfs-face-detect-app](https://github.com/RamazanUstuntas/gandalfs-face-detection-app)  API-v1
+[gandalfs-face-detection](https://github.com/RamazanUstuntas/gandalfs-face-detection-app)  API-v1
 
 1. Clone this repo
 2. Run `npm install`
