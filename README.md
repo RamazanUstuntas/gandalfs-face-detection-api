@@ -6,4 +6,4 @@
 3. Run `npm start`
 4. Enter the details for your own databse in server.js
 ---
-[API used for Face-Detection](https://www.clarifai.com/models/ai-face-detection)
+** Make sure you use postgreSQL instead of mySQL for this code base.
