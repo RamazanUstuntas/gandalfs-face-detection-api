@@ -1,4 +1,4 @@
-# gandalfs-face-detect-api
+# gandalfs-face-detection-api
 [gandalfs-face-detect-app](https://github.com/RamazanUstuntas/gandalfs-face-detection-app)  API-v1
 
 1. Clone this repo
