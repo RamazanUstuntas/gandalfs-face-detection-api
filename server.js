@@ -8,7 +8,7 @@ const image = require('./controllers/image');
 const signin = require('./controllers/signin');
 const profile = require('./controllers/profile');
 
-
+//edit according to your own situation
 const db = knex({
   client: 'pg',
   connection: {
